@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-22">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="JavaPatterns"/>
+	<classpathentry kind="src" path="Packages"/>
+	<classpathentry kind="src" path="OOPs"/>
+	<classpathentry kind="src" path="Session_Assignments"/>
+	<classpathentry kind="src" path="OverloadingAssignment"/>
+	<classpathentry kind="src" path="StringMethods"/>
+	<classpathentry kind="src" path="CharacterMethods"/>
+	<classpathentry kind="src" path="BigIntegerMethods"/>
+	<classpathentry kind="src" path="AssignmentInterface"/>
+	<classpathentry kind="src" path="ExceptionHandling_Assignment"/>
+	<classpathentry kind="src" path="PracticeSet01"/>
+	<classpathentry kind="src" path="Generics"/>
+	<classpathentry kind="src" path="Generics Assignment"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
